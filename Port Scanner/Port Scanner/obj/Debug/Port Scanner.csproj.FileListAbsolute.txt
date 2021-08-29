@@ -1,0 +1,7 @@
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe.config
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.exe
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\bin\Debug\Port Scanner.pdb
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.AssemblyReference.cache
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.exe
+C:\Users\Gostr\source\repos\Port Scanner\Port Scanner\obj\Debug\Port Scanner.pdb
