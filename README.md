@@ -1,4 +1,4 @@
-# port-scanner
+# Port-Scanner
 A C# TCP Port Scanner
 
 ## Purpose:
