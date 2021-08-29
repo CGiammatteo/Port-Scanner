@@ -6,3 +6,5 @@ A Simple C# TCP Port Scanner
 
 ## Pictures:
 ![image](https://user-images.githubusercontent.com/42420087/131259312-ee43e18f-edd9-4e66-baff-27ae6fe96e5b.png)
+
+#### Disclaimer: I am not responsible if someone uses this in any malicious way
